@@ -25,7 +25,7 @@ If you think something is wrong or if you would like to add something, open an i
 | ----------------------- | -------------- | ------- | ---------- | -------- | ---------- |
 | Release-Cert-CL-3807424 | 4.19.0-3807424 | 3804408 |            |          | Patch 1.11 |
 | Release-Cert-CL-3825894 | 4.19.0-3825894 | 3824727 | 2018-01-08 |          | Patch 2.1  |
-| 2.2.0                   |                |         |            |          |            |
+| 2.2.0                   |                |         |            | ZrI2-mGi5f095bc735dd412085dd6e71f5f1072f | |
 | 2.3.0                   |                |         |            |          |            |
 | 2.4.0                   |                |         |            |          |            |
 | 2.4.2                   |                |         |            |          |            |
@@ -110,7 +110,7 @@ If you think something is wrong or if you would like to add something, open an i
 | 7.20-CL-4716934 |                |         |            |                                |
 | 7.20-CL-4727874 | 4.22.0-4727874 | 4664262 |            |                                |
 | 7.30-CL-4821335 |                |         |            |                                |
-| 7.30-CL-4834550 |                |         |            |                                |
+| 7.30-CL-4834550 |                |         |            |8MYIDmwwomgXz_O0TUy0IC5y0ZUD-g  |
 | 7.30-CL-4869070 |                |         |            |                                |
 | 7.40-CL-4980899 |                |         |            |                                |
 | 7.40-CL-4996168 |                |         |            |                                |
